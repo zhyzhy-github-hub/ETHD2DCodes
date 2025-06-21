@@ -1,2 +1,2 @@
-## This is the code for ETHD (electrothermohydrodynamic) code for 2D simulation.
-## The code should be run in the palabos open-source software.
+## This is the code for the ETHD (electrothermohydrodynamic) for 2D simulation.
+## The code should be run in the Palabos open-source software.
